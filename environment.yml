@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - scipy
+  - obspy
+  - pandas
+  - geopandas
+  - scikit-learn
+  - basemap
+  - folium
+  - cartopy
+  - pip:
+    - bruges
+    - welly
